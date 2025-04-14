@@ -80,9 +80,11 @@ To evaluate financial health, detect profit margin trends, and inform budgeting 
 Alongside the core project objectives, I also explored and created additional reports as part of the learning process:
 
 - Top 10 Products by Net Sales
-- Country-wise Sales Distribution
-- Customer-wise Sales Trends
-- Monthly Sales Comparison
-- Division-level Sales Breakdown
+- Division Level Report
+- Top & Bottom Products by Quantity
+- New Products - 2021
+- Top 5 Countries by 2021 Net Sales
+- P & L for Markets - 2021
+- GM% By Quarter for Sub Zones
 
 These reports helped me deepen my understanding of business dynamics and practice building dashboards tailored to specific stakeholder questions.
