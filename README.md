@@ -79,7 +79,7 @@ To evaluate financial health, detect profit margin trends, and inform budgeting 
 
 Alongside the core project objectives, I also explored and created additional reports as part of the learning process:
 
-- Top 10 Products by Net Sales
+- [Top 10 Products by Net Sales](https://github.com/Nandu37/Sales-and-Finance-Analytics-Excel-Project/blob/main/Top%2010%20Products.pdf)
 - Division Level Report
 - Top & Bottom Products by Quantity
 - New Products - 2021
