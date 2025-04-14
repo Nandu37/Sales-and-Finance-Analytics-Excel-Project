@@ -1,1 +1,88 @@
 # AtliQ-Sales_Analytics
+
+# 🧾 Sales & Finance Analytics – Excel Project
+
+A data analytics project focused on exploring both sales and finance performance for **AtliQ Hardwares**, a B2B product-based company. Built entirely in **Microsoft Excel**, this project combines data modeling, report design, and business insight generation to deliver impactful findings.
+
+---
+
+## 📊 Sales Analytics
+
+**🔍 Project Objectives:**
+
+1. Build a **Customer Performance Report** to identify top-performing and fastest-growing accounts  
+2. Design a **Market Performance vs Target Report** to evaluate actual sales against 2021 targets
+
+**💡 Purpose:**
+To enable businesses to track key customer trends, compare actuals vs targets, and uncover actionable insights for sales strategy.
+
+**📈 Why it Matters:**
+- Understand shifts in customer demand post-pandemic  
+- Highlight growth opportunities and potential areas of concern  
+- Make data-backed decisions on customer engagement and market focus
+
+---
+
+## 💰 Finance Analytics
+
+**🔍 Project Objectives:**
+
+1. Create **Profit & Loss (P&L) Reports** by fiscal **year** and **month**  
+2. Analyze profitability trends over 3 years to support strategic financial planning
+
+**💡 Purpose:**
+To evaluate financial health, detect profit margin trends, and inform budgeting decisions.
+
+**📉 Insights Uncovered:**
+- **Net Sales** grew by **204%** from 2020 to 2021, but **Gross Margin %** dropped from **41.4% to 36.4%**, signaling profitability concerns  
+- Seasonal revenue spikes identified in **November and December**
+
+---
+
+## ⚙️ Technical Highlights
+
+- ✅ Built data model relationships using **Power Pivot**
+- ✅ Created dynamic reports with **Pivot Tables**
+- ✅ Used **DAX** to calculate key metrics (Net Sales, COGS, GM, GM%)  
+- ✅ Cleaned and transformed data and generated a date table using **Power Query**
+- ✅ Integrated new datasets (2021 targets) into the existing model 
+
+---
+
+## 💬 Soft Skills Strengthened
+
+- 🧠 Developed a strategic understanding of **Sales & Finance reporting**  
+- 🧑‍💻 Designed reports with user clarity and stakeholder needs in mind  
+- 🧹 Practiced report optimization and attention to detail  
+- 🧩 Built a structured, step-by-step approach to report planning
+
+---
+
+## 📁 Files & Screenshots
+
+- `Final_Sales_Finance_Analytics.xlsx`  
+- PDF Files of all key Reports:
+- Customer Performance
+- Market vs Target
+- P&L - Fiscal Year
+- P&L - Fiscal Month
+
+---
+
+## 🛠 Tools Used
+
+> Microsoft Excel • Power Query • Pivot Tables • Power Pivot • DAX  
+
+---
+
+## 📌 Additional Reports
+
+Alongside the core project objectives, I also explored and created additional reports as part of the learning process:
+
+- Top 10 Products by Net Sales
+- Country-wise Sales Distribution
+- Customer-wise Sales Trends
+- Monthly Sales Comparison
+- Division-level Sales Breakdown
+
+These reports helped me deepen my understanding of business dynamics and practice building dashboards tailored to specific stakeholder questions.
