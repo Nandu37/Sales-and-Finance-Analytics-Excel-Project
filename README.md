@@ -85,6 +85,6 @@ Alongside the core project objectives, I also explored and created additional re
 - [New Products - 2021](https://github.com/Nandu37/Sales-and-Finance-Analytics-Excel-Project/blob/main/New%20Products%20-%202021.pdf)
 - [Top 5 Countries by 2021 Net Sales](https://github.com/Nandu37/Sales-and-Finance-Analytics-Excel-Project/blob/main/Top%205%20Countries%20-%202021.pdf)
 - [P & L for Markets - 2021](https://github.com/Nandu37/Sales-and-Finance-Analytics-Excel-Project/blob/main/P%20%26%20L%20for%20Markets%20-%202021.pdf)
-- GM% By Quarter for Sub Zones
+- [GM% By Quarter for Sub Zones](https://github.com/Nandu37/Sales-and-Finance-Analytics-Excel-Project/blob/main/GM%25%20By%20Quarter%20for%20Sub%20Zones.pdf)
 
 These reports helped me deepen my understanding of business dynamics and practice building dashboards tailored to specific stakeholder questions.
