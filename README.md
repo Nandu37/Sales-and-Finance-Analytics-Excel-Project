@@ -81,7 +81,7 @@ Alongside the core project objectives, I also explored and created additional re
 
 - [Top 10 Products by Net Sales](https://github.com/Nandu37/Sales-and-Finance-Analytics-Excel-Project/blob/main/Top%2010%20Products.pdf)
 - [Division Level Report](https://github.com/Nandu37/Sales-and-Finance-Analytics-Excel-Project/blob/main/Division%20Level%20Report.pdf)
-- Top & Bottom Products by Quantity
+- [Top & Bottom Products by Quantity](https://github.com/Nandu37/Sales-and-Finance-Analytics-Excel-Project/blob/main/Top%20%26%20Bottom%20Products.pdf)
 - New Products - 2021
 - Top 5 Countries by 2021 Net Sales
 - P & L for Markets - 2021
