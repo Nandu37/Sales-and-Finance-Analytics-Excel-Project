@@ -59,8 +59,7 @@ To evaluate financial health, detect profit margin trends, and inform budgeting 
 ---
 
 ## 📁 Files & Screenshots
-
-- `Final_Sales_Finance_Analytics.xlsx`  
+ 
 - PDF Files of all key Reports:
 - [Customer Performance](https://github.com/Nandu37/Sales-and-Finance-Analytics-Excel-Project/blob/main/Customer%20Net%20Sales%20Performance.pdf)
 - [Market vs Target](https://github.com/Nandu37/Sales-and-Finance-Analytics-Excel-Project/blob/main/Market%20Performance%20vs%20Target.pdf)
