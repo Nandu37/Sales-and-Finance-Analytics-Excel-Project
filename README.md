@@ -65,7 +65,7 @@ To evaluate financial health, detect profit margin trends, and inform budgeting 
 - [Customer Performance](https://github.com/Nandu37/Sales-and-Finance-Analytics-Excel-Project/blob/main/Customer%20Net%20Sales%20Performance.pdf)
 - [Market vs Target](https://github.com/Nandu37/Sales-and-Finance-Analytics-Excel-Project/blob/main/Market%20Performance%20vs%20Target.pdf)
 - [P&L - Fiscal Year](https://github.com/Nandu37/Sales-and-Finance-Analytics-Excel-Project/blob/main/P%20%26%20L%20By%20Fiscal%20year.pdf)
-- [P&L - Fiscal Month](
+- [P&L - Fiscal Month](https://github.com/Nandu37/Sales-and-Finance-Analytics-Excel-Project/blob/main/P%20%26%20L%20By%20Fiscal%20Month.pdf)
 
 ---
 
